@@ -51,7 +51,5 @@ A **one-to-many relationship** is established between `Orders` (one side) and `D
 
 
 ---
+ 
 
-This README now documents **both the dashboard and the underlying data model**, making your project complete and professional.  
-
-Would you like me to also add a **“Screenshots” section** so you can embed your dashboard and data model images directly into the README for better visualization?
